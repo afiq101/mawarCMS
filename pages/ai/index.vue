@@ -376,7 +376,7 @@ onMounted(() => {
   </div>
 </template>
 
-<style>
+<style scoped>
 html[data-theme="default"] {
   --color-primary: 85, 120, 65;
   --color-secondary: 23, 33, 19;

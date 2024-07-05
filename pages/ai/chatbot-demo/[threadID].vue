@@ -534,7 +534,7 @@ const handleFileChange = (event) => {
   </div>
 </template>
 
-<style>
+<style scoped>
 @import url("https://fonts.cdnfonts.com/css/pp-neue-montreal");
 @import url("https://db.onlinewebfonts.com/c/926fcaaa8b66e0df67e176f329259711?family=PP+Editorial+New");
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap");

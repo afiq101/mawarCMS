@@ -63,6 +63,7 @@
     "prettier": "^2.8.1",
     "prisma": "^5.1.1",
     "prismjs": "^1.29.0",
+    "puppeteer": "^22.12.1",
     "sass": "^1.62.0",
     "showdown": "^2.1.0",
     "swiper": "^8.4.4",
