@@ -67,7 +67,7 @@ const submitPayment = () => {
               v-model="expiryDate"
               type="text"
               label="Expiry Date (MM/YY)"
-              validation="required|matches:/^(0[1-9]|1[0-2])\/\d{2}$/"
+              validation="required"
             >
               <template #label>
                 <label

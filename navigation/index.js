@@ -79,13 +79,13 @@ export default [
     },
   },
   {
-    header: "AI",
-    description: "Artificial Intelligence",
+    header: "Passport",
+    description: "BP1 and BP2",
     child: [
       {
-        title: "Chatbot",
-        path: "/ai",
-        icon: "mdi:robot",
+        title: "Dashboard",
+        path: "/app",
+        icon: "mdi:passport",
         child: [],
       },
     ],

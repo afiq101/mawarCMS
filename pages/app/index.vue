@@ -4,6 +4,8 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+navigateTo('/app/login')
+</script>
 
 <style lang="scss" scoped></style>
